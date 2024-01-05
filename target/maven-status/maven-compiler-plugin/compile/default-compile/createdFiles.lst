@@ -1,0 +1,3 @@
+usercrudapp\controller\MainController.class
+usercrudapp\model\User.class
+usercrudapp\dao\UserDao.class
